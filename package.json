@@ -5,7 +5,7 @@
   "main": "N/A",
   "repository": "https://github.com/reactjs-id/shortlinks.git",
   "author": "ReactJS Indonesia <reactorg.id@gmail.com>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "private": true,
   "baseUrl": "https://s.reactjs.id",
   "scripts": {
