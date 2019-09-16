@@ -1,3 +1,7 @@
+# npm lockfile
+# Since this project uses yarn, this can be ignored.
+/package-lock.json
+
 # =========================
 # Node.js-Specific Ignores
 # =========================
