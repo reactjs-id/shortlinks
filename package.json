@@ -1,0 +1,17 @@
+{
+  "name": "@reactjs-id/shortlinks",
+  "version": "1.0.0",
+  "description": "Collection of shortlinks for reactjs.id",
+  "main": "N/A",
+  "repository": "https://github.com/reactjs-id/shortlinks.git",
+  "author": "ReactJS Indonesia <reactorg.id@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "baseUrl": "https://s.reactjs.id",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.4"
+  }
+}
