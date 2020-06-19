@@ -1,13 +1,13 @@
 {
-  "name": "@reactjs-id/shortlinks",
+  "name": "@rantaudev/shortlinks",
   "version": "1.0.0",
-  "description": "Collection of shortlinks for reactjs.id",
+  "description": "Collection of shortlinks for rantaudev",
   "main": "N/A",
-  "repository": "https://github.com/reactjs-id/shortlinks.git",
-  "author": "ReactJS Indonesia <reactorg.id@gmail.com>",
+  "repository": "https://github.com/rantaudev/shortlinks.git",
+  "author": "Rantaudev <admin@rantau.dev>",
   "license": "UNLICENSED",
   "private": true,
-  "baseUrl": "https://s.reactjs.id",
+  "baseUrl": "https://rantaudev.pro",
   "scripts": {
     "shorten": "netlify-shortener"
   },
