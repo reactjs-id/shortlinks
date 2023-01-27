@@ -1,20 +1,21 @@
-/speak      https://github.com/reactjs-id/meetup
-/shorten    https://github.com/reactjs-id/shortlinks/blob/master/_redirects
-/discord    https://discord.com/invite/hBxdKhh
-/merch      https://www.rumahkomunitas.com/react-indonesia
-/twitter    https://twitter.com/reactjsid
-/telegram   https://telegram.me/react_id
-/twitch     https://www.twitch.tv/reactjsid
-/facebook   https://www.facebook.com/groups/442974152553174
+/obrolan-1   https://youtu.be/5guSxse7Kwg
+/speak       https://github.com/reactjs-id/meetup
+/shorten     https://github.com/reactjs-id/shortlinks/blob/master/_redirects
+/discord     https://discord.com/invite/hBxdKhh
+/merch       https://www.rumahkomunitas.com/react-indonesia
+/twitter     https://twitter.com/reactjsid
+/telegram    https://telegram.me/react_id
+/twitch      https://www.twitch.tv/reactjsid
+/facebook    https://www.facebook.com/groups/442974152553174
 
 #meetups
-/meetup-1   https://www.meetup.com/reactindonesia/events/263022521/
-/meetup-3   https://www.meetup.com/reactindonesia/events/264687602/
-/meetup-4   https://www.meetup.com/reactindonesia/events/265774037/
-/meetup-6   https://www.meetup.com/reactindonesia/events/268139930/
-/meetup-7   https://www.youtube.com/watch?v=AJXjGSX652E
-/meetup-8   https://www.youtube.com/watch?v=1pRNsg9jrzQ
-/meetup-9   https://www.youtube.com/watch?v=kYh_SSRygmE
+/meetup-1    https://www.meetup.com/reactindonesia/events/263022521/
+/meetup-3    https://www.meetup.com/reactindonesia/events/264687602/
+/meetup-4    https://www.meetup.com/reactindonesia/events/265774037/
+/meetup-6    https://www.meetup.com/reactindonesia/events/268139930/
+/meetup-7    https://www.youtube.com/watch?v=AJXjGSX652E
+/meetup-8    https://www.youtube.com/watch?v=1pRNsg9jrzQ
+/meetup-9    https://www.youtube.com/watch?v=kYh_SSRygmE
 
 #fallback
-/*          https://reactjs.id
+/*           https://reactjs.id
