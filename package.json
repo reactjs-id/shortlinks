@@ -11,7 +11,10 @@
   "scripts": {
     "shorten": "netlify-shortener"
   },
+  "bin": {
+    "shorten": "cli.js"
+  },
   "devDependencies": {
-    "netlify-shortener": "^1.0.4"
+    "netlify-shortener": "^2.4.0"
   }
 }
