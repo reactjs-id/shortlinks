@@ -1,30 +1,31 @@
-/keran-6     https://www.youtube.com/watch?v=XLTnlh0hlRk
-/keran-5     https://www.youtube.com/watch?v=6QcBlWJH_NE
-/keran-4     https://www.youtube.com/watch?v=ufkTYNFtZwE
-/keran-3     https://www.youtube.com/watch?v=E9fUTkSaKy4
-/keran-2     https://www.youtube.com/watch?v=nfxxKfWSs94
-/keran-1     https://www.youtube.com/watch?v=IW06O3Aoow4
-/figma       https://www.figma.com/file/WvZuXYc09qZQJW0DQ7hxM2/General-Design-Assets?node-id=30-2&t=n3k67W2MxPbImnQP-0
-/obrolan-2   https://www.youtube.com/live/NpMWjmk5ZRk
-/obrolan-1   https://youtu.be/5guSxse7Kwg
-/speak       https://github.com/reactjs-id/meetup
-/shorten     https://github.com/reactjs-id/shortlinks/blob/master/_redirects
-/discord     https://discord.com/invite/hBxdKhh
-/merch       https://www.rumahkomunitas.com/react-indonesia
-/twitter     https://twitter.com/reactjsid
-/telegram    https://telegram.me/react_id
-/twitch      https://www.twitch.tv/reactjsid
-/facebook    https://www.facebook.com/groups/442974152553174
+/obrolan-3     https://www.youtube.com/watch?v=pxQkhy6CfVk
+/keran-6       https://www.youtube.com/watch?v=XLTnlh0hlRk
+/keran-5       https://www.youtube.com/watch?v=6QcBlWJH_NE
+/keran-4       https://www.youtube.com/watch?v=ufkTYNFtZwE
+/keran-3       https://www.youtube.com/watch?v=E9fUTkSaKy4
+/keran-2       https://www.youtube.com/watch?v=nfxxKfWSs94
+/keran-1       https://www.youtube.com/watch?v=IW06O3Aoow4
+/figma         https://www.figma.com/file/WvZuXYc09qZQJW0DQ7hxM2/General-Design-Assets?node-id=30-2&t=n3k67W2MxPbImnQP-0
+/obrolan-2     https://www.youtube.com/live/NpMWjmk5ZRk
+/obrolan-1     https://youtu.be/5guSxse7Kwg
+/speak         https://github.com/reactjs-id/meetup
+/shorten       https://github.com/reactjs-id/shortlinks/blob/master/_redirects
+/discord       https://discord.com/invite/hBxdKhh
+/merch         https://www.rumahkomunitas.com/react-indonesia
+/twitter       https://twitter.com/reactjsid
+/telegram      https://telegram.me/react_id
+/twitch        https://www.twitch.tv/reactjsid
+/facebook      https://www.facebook.com/groups/442974152553174
 
 #meetups
-/meetup-1    https://www.meetup.com/reactindonesia/events/263022521/
-/meetup-3    https://www.meetup.com/reactindonesia/events/264687602/
-/meetup-4    https://www.meetup.com/reactindonesia/events/265774037/
-/meetup-6    https://www.meetup.com/reactindonesia/events/268139930/
-/meetup-7    https://www.youtube.com/watch?v=AJXjGSX652E
-/meetup-8    https://www.youtube.com/watch?v=1pRNsg9jrzQ
-/meetup-9    https://www.youtube.com/watch?v=kYh_SSRygmE
-/bali-meetup https://docs.google.com/forms/d/e/1FAIpQLSdsc0g5EZix0-_fhqDs_kWeX-nZR_YHwRRDXP5GTuu-DbxbvA/viewform?usp=dialog
+/meetup-1      https://www.meetup.com/reactindonesia/events/263022521/
+/meetup-3      https://www.meetup.com/reactindonesia/events/264687602/
+/meetup-4      https://www.meetup.com/reactindonesia/events/265774037/
+/meetup-6      https://www.meetup.com/reactindonesia/events/268139930/
+/meetup-7      https://www.youtube.com/watch?v=AJXjGSX652E
+/meetup-8      https://www.youtube.com/watch?v=1pRNsg9jrzQ
+/meetup-9      https://www.youtube.com/watch?v=kYh_SSRygmE
+/bali-meetup   https://docs.google.com/forms/d/e/1FAIpQLSdsc0g5EZix0-_fhqDs_kWeX-nZR_YHwRRDXP5GTuu-DbxbvA/viewform?usp=dialog
 
 #fallback
-/*           https://reactjs.id
+/*             https://reactjs.id
